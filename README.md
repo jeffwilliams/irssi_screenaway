@@ -20,7 +20,7 @@ setting and unmarks the user as away.
 ## Installation:
 
 1. Copy `screenaway.pl` and `screenaway_blanker.pl` to the directory `~/.irssi/scripts`. 
-2. Make a link to screenaway.pl from ~/.irssi/scripts/autorun if you want it started automatically.
+2. Make a link to `screenaway.pl` from `~/.irssi/scripts/autorun` if you want it started automatically.
  
 ## Settings:
 
